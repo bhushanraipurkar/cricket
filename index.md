@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub API page
 
-You can use the [editor on GitHub](https://github.com/bhushanraipurkar/cricket/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So this Github page has information about my Cricket API , we have four Year IPL data that is 2018 , 2019 , 2020 , 2021 and maybe in future i will add all the Api related to Cricket. 
 
-### Markdown
+### Brief about DATASET or API
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This API consist of IPL player's Name , matches he played in entire IPL , total innings , runs , average , total Fifty_s fours sixes and etc. you can check it out by just hitting url on your browser.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 2021 IPL data
+[https://bhushanraipurkar.github.io/cricket/2021.json](https://bhushanraipurkar.github.io/cricket/2021.json)
 
-1. Numbered
-2. List
+### 2020 IPL data
+[https://bhushanraipurkar.github.io/cricket/2020.json](https://bhushanraipurkar.github.io/cricket/2021.json)
 
-**Bold** and _Italic_ and `Code` text
+### 2019 IPL data
+[https://bhushanraipurkar.github.io/cricket/2019.json](https://bhushanraipurkar.github.io/cricket/2019.json)
 
-[Link](url) and ![Image](src)
-```
+### 2018 IPL data
+[https://bhushanraipurkar.github.io/cricket/2018.json](https://bhushanraipurkar.github.io/cricket/2018.json)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Your Contribution is important
+If you have any kind of data related to Cricket than you can send us to `bhushanraipurkar10@gmail.com` or you can send us pull request we will publish it as soon as possible .
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhushanraipurkar/cricket/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# THANK YOU .
